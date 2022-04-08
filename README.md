@@ -2,8 +2,11 @@
 
 Tax incentives, rent sharing and income inequality within companies
 
-<strong> Start Preprocessing_2010_data - 6/4/2021</strong>
+<strong> Start Preprocessing_2010_data - 6/4/2022</strong>
 
+<strong> Finish Proprocessiong_data - 7/4/2022 </strong>
+
+<strong> Debug data - 8/4/2022 </strong>
 **Participants**
 
 - QUZIHAN WU
